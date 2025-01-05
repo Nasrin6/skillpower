@@ -1,0 +1,71 @@
+*{
+    font-family: "Poppins", serif;
+}
+.logo{
+    height: 80px;
+    width: 80px;
+}
+.comname{
+    height: 70px;
+    width: 200px;
+}
+.banner{
+    background: url(../images/contactus.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px;
+    color: white;
+}
+.banner-1{
+    background: url(../images/aboutus.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding: 250px;
+    color: white;
+}
+.banner-2{
+    background: url(../images/finance-account-services.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px;
+}
+.banner-3{
+    background: url(../images/building\ banner.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding: 250px;
+}
+.bg-section .card{
+    border-radius: 20px !important;
+    padding: 32px !important;
+}
+.bg-section .card-img-tops{
+    border-radius: 20px !important;
+}
+.bg-section{
+    background-color:blueviolet !important;
+}
+.bg-section h4{
+    font-size: 2.25rem !important;
+}
+.bg-section p{
+    font-size: 1.5rem !important;
+}
+.btn-primary{
+    background-color: blueviolet !important;
+    border-color: blue !important;
+    width: 100% !important;
+    border-radius: 10px !important;
+}
+.form-control{
+    height: 55px !important;
+    border-radius: 7px;
+    color: #111111;
+    background-color: #e5e5e5;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
