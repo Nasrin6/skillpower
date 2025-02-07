@@ -60,7 +60,7 @@ html,body{
 }
 .btn-primary{
     background-color: blueviolet !important;
-    border-color: blue !important;
+    border-color: rgb(114, 16, 205) !important;
     width: 100% !important;
     border-radius: 10px !important;
 }
