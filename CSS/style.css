@@ -16,14 +16,6 @@ html,body{
     height: 70px;
     width: 200px;
 }
-.navbar{
-    background-color: rgb(219, 129, 129);
-    color: white;
-}
-.navbar li a:hover{
-    background-color: rgb(131, 5, 5);
-    color: white;
-}
 .banner{
     background: url(../images/contactus.jpg);
     background-size: cover;
