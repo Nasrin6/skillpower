@@ -17,11 +17,11 @@ html,body{
     width: 200px;
 }
 .navbar{
-    background-color: rgb(246, 112, 112);
+    background-color: rgb(219, 129, 129);
     color: white;
 }
-.navbar:hover{
-    background-color: rgb(162, 34, 34);
+.navbar li a:hover{
+    background-color: rgb(131, 5, 5);
     color: white;
 }
 .banner{
