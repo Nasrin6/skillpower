@@ -76,3 +76,6 @@ a{
 li{
     list-style: none;
 }
+.card-title{
+    text-align: center;
+}
